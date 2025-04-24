@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ✨ 9SEOO
+          ✨ 0424_9SEOO
         </a>
       <a
           className="link-button"
