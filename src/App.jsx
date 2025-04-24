@@ -16,6 +16,14 @@ function App() {
       <div className="link-area">
       <a
           className="link-button"
+          href="https://d3-fork-c1w9.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          ✨ 9SEOO
+        </a>
+      <a
+          className="link-button"
           href="https://day3pm.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
