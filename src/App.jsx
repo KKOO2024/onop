@@ -5,7 +5,7 @@ import profileImg from './assets/images/9s0.png';
 function App() {
   return (
     <div className="main-container">
-      <h1 className="title">구서영의 리액트</h1>
+      <h1 className="title">구서영의 개발노트</h1>
 
       <ProfileCard
         image={profileImg}
@@ -14,6 +14,23 @@ function App() {
       />
 
       <div className="link-area">
+      <a
+          className="link-button"
+          href="https://day3pm.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          ✨ 0424_ pm
+        </a>
+        <a
+          className="link-button"
+          href="https://am-alpha.vercel.app/
+"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          ✨ 0424_ am
+        </a>
       <a
           className="link-button"
           href="https://mic-alpha.vercel.app/"
